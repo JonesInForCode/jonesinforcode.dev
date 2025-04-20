@@ -16,6 +16,17 @@ I have no intention of violating anyone else’s intellectual property or ideas.
 - **Showcase of Projects**: A dedicated section to highlight my recent work.
 - **Contact Section**: Easy ways to get in touch with me for collaboration or inquiries.
 
+## Why a Single Page Application (SPA)?
+
+This portfolio is built as a Single Page Application (SPA) to provide a seamless and interactive user experience. By using an SPA, the entire site is loaded once, and navigation between sections is handled dynamically without requiring full page reloads. This approach offers several benefits:
+
+- **Faster Navigation**: Since the content is already loaded, navigating between sections is instantaneous.
+- **Smooth Scrolling**: The scrolling feature allows users to easily navigate through the site, creating a natural and intuitive flow.
+- **Mobile and Desktop Friendly**: The scrolling navigation is optimized for both mobile and desktop devices, ensuring a consistent experience across all screen sizes.
+- **Improved Performance**: SPAs reduce server load by minimizing the number of requests made to the server, resulting in faster load times.
+
+By combining the SPA architecture with a scrolling navigation feature, this portfolio is designed to be user-friendly and accessible, making it easy for visitors to explore my work and learn more about me.
+
 ## Tech Stack
 
 - **Frontend**: React, TypeScript, Styled Components
